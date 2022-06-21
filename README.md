@@ -14,4 +14,4 @@ results and considerations.
 
 #### Notice
 The whole notebook is available on the master branch;  
-due to its weight it is divided in part 1 and 2 to allow rendering by github
+To visualize it: download -> ctrl+s -> change extension to .ipynb
