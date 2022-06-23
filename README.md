@@ -1,6 +1,7 @@
 # Lung_cancer_classification
 Deep learning for False positive reduction (recognition of malignant tumors) among RegionsOfInterest within LowDensityComputerizedTomography scans of lungs
-
+  
+This project was developed in collaboration with https://github.com/KarimKassem  
 ### Key features
 data augmentation techniques for images (Albumentaiton);  
 multiresolution analysis;  
